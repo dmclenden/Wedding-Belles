@@ -1,0 +1,104 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "sku": 123,
+        "title": "Estilo V-Neck Crepe Trumpet Wedding Gown",
+        "description": "Off White/ Crystal",
+        "availableSizes": ["4", "6", "8", "10","12"],
+        "price": 1550.00,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 2,
+        "sku": 456,
+        "title": "Zaha Strapless Embellished Wedding Dress",
+        "description": "Off White Crystal Vanilla",
+        "availableSizes": ["6", "8", "12"],
+        "price": 2900.00,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 3,
+        "sku": 1011,
+        "title": "Elke Strapless Lace Wedding Dress",
+        "description": "Ivory",
+        "availableSizes": ["4", "6", "10", "12"],
+        "price": 4000.00,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 4,
+        "sku": 789,
+        "title": "Illusion Faux Strapless Silk Wedding Dress",
+        "description": "Off White",
+        "availableSizes": ["8"],
+        "price": 4600.00,
+        "isFreeShipping": false
+      },
+  
+      {
+        "id": 5,
+        "sku": 1213,
+        "title": "Dixie Embellished Lace Trumpet Wedding Dress",
+        "description": "Ivory/ Bronze",
+        "availableSizes": ["6", "8", "12"],
+        "price": 1795.00,
+        "isFreeShipping": false
+      },
+  
+      {
+        "id": 6,
+        "sku": 1415,
+        "title": "Plunge Mermaid Wedding Dress",
+        "description": "Ivory",
+        "availableSizes": ["8", "12"],
+        "price": 8000.00,
+        "isFreeShipping": false
+      },
+      {
+        "id": 7,
+        "sku": 1617,
+        "title": "Off the Shoulder Wedding Dress",
+        "description": "Silk White",
+        "availableSizes": ["4"],
+        "style": "Off the Shoulder",
+        "price": 3900.00,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 8,
+        "sku": 1819,
+        "title": "Bea Embroidered Ballgown Wedding Dress",
+        "description": "Ivory",
+        "availableSizes": ["2"],
+        "style": "Ballgown",
+        "price": 2600.00,
+        "isFreeShipping": false
+      },
+
+      {
+        "id": 9,
+        "sku": 2021,
+        "title": "Rosa Clará Kara Beaded Trumpet Gown",
+        "description": "Natural",
+        "availableSizes": ["4", "12"],
+        "price": 1900.00,
+        "isFreeShipping": false
+      },
+
+      {
+        "id": 10,
+        "sku": 2223,
+        "title": "Illusion Sleeve Embroidered Trumpet Gown",
+        "description": "Natural",
+        "availableSizes": ["8"],
+        "price": 8400.00,
+        "isFreeShipping": false
+      }
+    ]
+  }
