@@ -4,7 +4,7 @@ An online wedding dress boutique
 __Created using:__
 * Bootstrap
 * React-Redux
-* Rest API
+* Rest API created with JSON server
 * Express
 
 
