@@ -1,11 +1,11 @@
-#WEDDING BELLES
+# WEDDING BELLES
 An online wedding dress boutique
 
-**Created using:**
-*Bootstrap
-*React-Redux
-*Rest API
-*Express
+_Created using:_
+* Bootstrap
+* React-Redux
+* Rest API
+* Express
 
 
 
