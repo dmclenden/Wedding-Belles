@@ -1,14 +1,14 @@
 # WEDDING BELLES
 An online wedding dress boutique
 
-_Created using:_
+__Created using:__
 * Bootstrap
 * React-Redux
 * Rest API
 * Express
 
 
-
+![website](https://i.ibb.co/bBH14NN/Screen-Shot-2020-03-06-at-10-17-22-PM.png)
 
 
 
